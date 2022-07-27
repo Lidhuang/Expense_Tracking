@@ -3,7 +3,7 @@ Expense_Tracking_Project
 This is Expense Tracking Mobile Application
 Technical : Xamarin form - C#
 
-Githib link: https://github.com/chvlswetha/Expense...
+Githib link: https://github.com/chvlswetha/Expense...//
 
 Youtube - https://youtu.be/82IB5XlzAVA
 
