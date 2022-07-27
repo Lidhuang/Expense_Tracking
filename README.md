@@ -3,9 +3,9 @@ Expense_Tracking_Project
 This is Expense Tracking Mobile Application
 Technical : Xamarin form - C#
 
-Githib link: https://github.com/chvlswetha/Expense...//
+Githib link: https://github.com/Lidhuang/Expense_Tracking.git
 
-Youtube - https://youtu.be/82IB5XlzAVA
+Youtube - https://youtu.be/IbqcLEJV5hs
 
 
  As soon as we launch the application main page opens
